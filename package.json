@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-translator",
+  "version": "1.0.0",
+  "description": "Translates a json file using Microsoft Translator api",
+  "main": "translator.js",
+  "dependencies": {
+    "async": "^1.4.2",
+    "mstranslator": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translation",
+    "translator",
+    "microsoft",
+    "translator",
+    "nodejs",
+    "json"
+  ],
+  "author": "Pietro Vismara",
+  "license": "ISC"
+}
